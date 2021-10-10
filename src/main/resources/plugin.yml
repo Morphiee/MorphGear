@@ -1,0 +1,15 @@
+name: MorphGear
+version: 1.0.0-BETA
+main: dev.morphie.morphgear.MorphGear
+author: Morphie
+api-version: 1.16.5
+softdepend: [PlaceholderAPI]
+commands:
+  morphgear:
+    description: Main command for the MorphRedeem plugin!
+    usage: /<command>
+    aliases: [mg]
+  enchantress:
+    description: Main command for the enchantress system!
+    usage: /<command>
+    aliases: [ench]
